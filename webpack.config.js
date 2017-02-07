@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    entry: './app/main.jsx',
+    entry: './components/root.jsx',
     output: {
         path: __dirname,
         filename: './public/js/bundle.js'

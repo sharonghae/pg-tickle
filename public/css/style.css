@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.result {
+    margin-top: 20px;
+    text-align: center;
+}

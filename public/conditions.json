@@ -1,0 +1,41 @@
+{
+  "conditions": [
+    {
+      "id": 0,
+      "label": "Allergies",
+      "cost": 0.01,
+      "isActive": true,
+      "checked": false
+    }, {
+      "id": 1,
+      "label": "Sleep apnea",
+      "cost": 0.06,
+      "isActive": true,
+      "checked": false
+    }, {
+      "id": 2,
+      "label": "Heart Disease",
+      "cost": 0.17,
+      "isActive": true,
+      "checked": false
+    }, {
+      "id": 3,
+      "label": "High Cholesterol",
+      "cost": 0.08,
+      "isActive": true,
+      "checked": false
+    }, {
+      "id": 4,
+      "label": "Asthma",
+      "cost": 0.04,
+      "isActive": true,
+      "checked": false
+    }, {
+      "id": 5,
+      "label": "Smoking",
+      "cost": 0.50,
+      "isActive": false,
+      "checked": false
+    }
+  ]
+}

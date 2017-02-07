@@ -15,4 +15,4 @@ app.get('/', (req, res) => {
 const port = process.env.PORT || 1337;
 app.listen(port, () => {
     console.log('hello world! at port ' + port);
-})
+});
